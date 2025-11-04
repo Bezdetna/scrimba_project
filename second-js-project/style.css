@@ -1,0 +1,26 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(./img/360_F_322485076_wuZ8D5R9biTRNSGJMWZBor9uUcO1Md59.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+button{
+    background-color: goldenrod;
+    color: rgb(6, 86, 6);
+    border: none;
+    padding: 5px 25px;
+    font-weight: bold;
+    border-radius: 2px;
+    margin: 5px;
+}
+
+#massage-el{
+    font-style: italic;
+}
